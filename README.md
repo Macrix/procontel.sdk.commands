@@ -18,6 +18,7 @@
 As SDK version may change, we provide SDK.Commands compatibility matrix which shows which SDK.Commands versions is supported by which *ProconTEL Engine* and *ProconTEL SDK*.
 | *ProconTEL Engine* | *ProconTEL SDK* | *SDK.Commands* | 
 | :---:  |:---:|:---:|
+| 3.0.10.1 | 1.0.0 | 1.1.0 |
 | 3.0.10 | 1.0.0 | 1.1.0 |
 | 3.0.9 | 1.0.0 | 1.1.0 |
 
