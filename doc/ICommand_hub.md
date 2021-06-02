@@ -1,5 +1,11 @@
-# ICommandHub
+---
+Title: "ICommandHub"
+Weight: 8
+Description: >
+  Learn about ICommandHub
+---
 
+## How to use ICommandHub
 ICommandHub describes a way of communication in Procontel ADP solutions. The basic idea behind it is to give one common interface that can be used in communication between two backend services (endpoint service to endpoint service) as well as between backend and frontend of service (endpoint service and status control of the endpoint).  
 
 

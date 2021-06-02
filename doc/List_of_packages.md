@@ -1,4 +1,11 @@
-# List of necessary packages
+---
+Title: "Packages"
+Weight: 8
+Description: >
+  List of necessary packages
+---
+
+## Required packages:
 
 - ADP.Commands
 - ADP.DependencyInjection

@@ -1,4 +1,11 @@
-# How to use Powershell commands
+---
+Title: "Powershell"
+Weight: 8
+Description: >
+  Powershell commands
+---
+
+## How to use Powershell commands
 
 There are some commands to create and handle endpoints much easier than before.   
 When these commands are executed, they will automatically add templates(c#) files to your project.

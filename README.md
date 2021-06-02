@@ -1,4 +1,9 @@
-# SDK.Commands
+---
+Title: "Commands"
+Weight: 8
+Description: >
+  Learn how to use the ProconTEL SDK.Commands
+---
 
 ## Table of Contents
 
