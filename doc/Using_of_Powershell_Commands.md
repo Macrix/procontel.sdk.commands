@@ -1,5 +1,6 @@
 ---
 Title: "Powershell"
+github_url: "https://github.com/Macrix/procontel.sdk.commands/edit/master/doc/Using_of_Powershell_Commands.md"
 Weight: 8
 Description: >
   Powershell commands

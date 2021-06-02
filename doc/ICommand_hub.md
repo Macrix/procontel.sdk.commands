@@ -1,5 +1,6 @@
 ---
 Title: "ICommandHub"
+github_url: "https://github.com/Macrix/procontel.sdk.commands/edit/master/doc/ICommand_hub.md"
 Weight: 8
 Description: >
   Learn about ICommandHub

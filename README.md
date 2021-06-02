@@ -1,5 +1,6 @@
 ---
 Title: "Commands"
+github_url: "https://github.com/Macrix/procontel.sdk.commands/edit/master/README.md"
 Weight: 8
 Description: >
   Learn how to use the ProconTEL SDK.Commands

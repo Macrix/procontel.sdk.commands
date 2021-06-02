@@ -1,5 +1,6 @@
 ---
 Title: "Packages"
+github_url: "https://github.com/Macrix/procontel.sdk.commands/edit/master/doc/List_of_packages.md"
 Weight: 8
 Description: >
   List of necessary packages
